@@ -1,2 +1,7 @@
-# mangata
-mangata raw
+{
+  "name": "",
+  "website": "",
+  "description": "",
+  "logo": "",
+  "twitter": ""
+}
